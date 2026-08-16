@@ -1,25 +1,108 @@
-# No-More-Room-in-Hell-2-Cheat
+# No-More-Room-in-Hell-2-Trainer
 <div align="center">
 
-# No More Room in Hell 2 — Cheat
+# No More Room in Hell 2 — Trainer Menu
 
-**Infinite ammo and stamina, no infection, unlimited medical supplies, item and objective highlighting, free camera.**
-Free, open source. Opens with `Insert`.
+**Unlimited stamina, infection immunity, item highlighting, map reveal, free camera mode.**
+Open-source helper tool. Activates with `Insert`.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-6b7a3f?style=flat-square)
 ![Platform](https://img.shields.io/badge/Windows-10%20%7C%2011-1c1c1c?style=flat-square)
 ![Store](https://img.shields.io/badge/Steam-Early%20Access-4a8c5a?style=flat-square)
-![Co-op](https://img.shields.io/badge/host--only%20guard-on%20by%20default-8fae5a?style=flat-square)
+![Co-op](https://img.shields.io/badge/Co--op-8%20Players-8fae5a?style=flat-square)
 
 </div>
 
 ---
 
-> [!IMPORTANT]
-> NMRiH2 is eight-player co-op with **public matchmaking**. That means the people in your lobby are usually strangers who did not agree to any of this.
->
-> **Host-only mode ships enabled** and blocks anything marked **`squad`** while you are a guest. Use this in private lobbies with friends. Dropping into a public server with infinite ammo and a wallhack takes the game from seven people who queued for scarcity and dread.
+## 🎥 Video Guide — Setup & Features Overview
 
+[![NMRiH2 Trainer Video Guide](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
+> *Click the image above to watch the full installation guide and feature overview.*
+
+---
+
+> [!IMPORTANT]
+> NMRiH2 is an **8-player co-op** game with public matchmaking. Other players may not expect modified gameplay.
+>
+> **Host-only mode is active by default** — features labeled **`squad`** are disabled when joining as a guest. Recommended for private sessions with consenting friends.
+
+## What this tool offers
+
+No More Room in Hell 2 focuses on resource management and survival pressure. This trainer provides options for map learning, mechanical testing, or alternative gameplay in controlled environments.
+
+### Feature List
+
+| Option | Hotkey | Scope |
+|---|---|---|
+| Health regeneration | `F1` | Local |
+| Stamina pool | `F2` | Local |
+| Infection resistance | `F3` | Local |
+| Ammo supply | `F4` | Local |
+| Reload bypass | — | Local |
+| Recoil reduction | — | Local |
+| Medical item supply | `F5` | Local |
+| Carry capacity | — | Local |
+| Damage adjustment | Slider | Local |
+| Damage multiplier | `F6` | Local |
+| Enemy AI pause | `F7` | **`host`** |
+| Enemy count | Slider | **`host`** |
+| Objective highlighting | `F8` | Local |
+| Map visibility | — | Local |
+| Team revival | `F9` | **`host`** |
+| Movement multiplier | Slider | **`host`** |
+| Collision bypass | `F10` | **`host`** |
+| Display brightness | Slider | Local |
+| Camera control | `F11` | Local |
+| Interface toggle | `F12` | Local |
+
+## Controls
+
+`Insert` — Toggle menu · `End` — Reset all options · `F1`–`F12` — Quick access (all customizable)
+
+> [!TIP]
+> Balanced setup for group play: **Objective highlighting** (reduces keycard search time) + **Team revival** (supports squad members). Other options work best in private matches.
+
+> [!WARNING]
+> **Early Access title.** Game updates may affect tool functionality. Check Releases page for version-matched builds. Read-only inspection mode is available for stability testing.
+
+## Frequently Asked Questions
+
+<details>
+<summary>Is this detectable or bannable?</summary>
+No competitive modes or ranking systems are present. Server administrators may restrict access if they notice modifications.
+</details>
+
+<details>
+<summary>Can this be used in public games?</summary>
+Technically possible, but strongly discouraged. Public lobbies contain players seeking standard survival experiences.
+</details>
+
+<details>
+<summary>Does infection resistance affect teammates?</summary>
+No, it only applies to your character. Squad members remain vulnerable to infection mechanics.
+</details>
+
+<details>
+<summary>Features broke after game update?</summary>
+Expected during Early Access. Check for updated releases or use inspection mode to verify current compatibility.
+</details>
+
+## Changelog
+
+**v1.0.0** — Initial release. Includes 25+ features across categories: Survivor, Combat, Host Controls, Camera, and Settings. Host-only protection enabled.
+
+---
+
+<div align="center">
+<sub>Community project. Not affiliated with Torn Banner Studios, Lever Games, or Valve. MIT License.</sub>
+</div>
+
+---
+
+### 🏷️ Related Topics:
+No More Room in Hell 2 trainer, NMRiH2 helper, infinite ammo, wallhack alternative, no clip, NMRiH2 mod menu, item highlight, zombie game tools, co-op survival, download NMRiH2 trainer, private lobby, early access mods, unlimited stamina.
 ## What it does
 
 No More Room in Hell 2 is about scarcity — six bullets, one bandage, and a friend who just got bitten and has not told anyone yet. Remove that and there is not much game left, which is why most of this menu is tagged and most of it is off by default.
