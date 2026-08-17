@@ -173,3 +173,9 @@ Expected in Early Access. Check the Releases page for a build matching your game
 <div align="center">
 <sub>Unofficial fan tool. Not affiliated with Torn Banner Studios, Lever Games or Valve. MIT licensed.</sub>
 </div>
+
+---
+
+## 🏷️ SEO Keywords (for Google Search)
+
+No More Room in Hell 2 trainer, NMRiH2 trainer, No More Room in Hell 2 mod, NMRiH2 mod, No More Room in Hell 2 cheats, NMRiH2 cheats, No More Room in Hell 2 hack, NMRiH2 hack, NMRiH2 mod menu, No More Room in Hell 2 tool, NMRiH2 helper, zombie survival tool, co-op game mod, Steam early access, open-source trainer, infinite health, infinite stamina, infinite ammo, no infection, one-hit kill, noclip, free camera, item highlight, map reveal, revive teammates, unlimited weight, no reload, no recoil, brightness tool, zombie density, freeze zombies, wallhack alternative, zombie game, survival horror, co-op survival, trainer tool, mod menu, memory editor, cheat engine alternative, quality-of-life mod, Windows 10, Windows 11, Steam, PC mod, Torn Banner Studios, Lever Games, how to get infinite health in No More Room in Hell 2, No More Room in Hell 2 trainer download free, best NMRiH2 mods, No More Room in Hell 2 console commands alternative, No More Room in Hell 2 cheat table, No More Room in Hell 2 single-player tool, NMRiH2 practice mode, NMRiH2 sandbox tool, No More Room in Hell 2 private lobby mod, NMRiH2 quality of life mod, No More Room in Hell 2 unlimited stamina cheat, NMRiH2 infection immunity mod, No More Room in Hell 2 revive teammates hack, NMRiH2 item highlighter download, No More Room in Hell 2 noclip mod, NMRiH2 free camera tool, No More Room in Hell 2 brightness fix, NMRiH2 one hit kill trainer, No More Room in Hell 2 zombie density mod, NMRiH2 freeze zombies cheat
